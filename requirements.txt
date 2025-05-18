@@ -1,0 +1,8 @@
+bitsandbytes
+peft
+trl
+accelerate
+transformers
+dotenv
+langchain
+langchain_community
