@@ -1,7 +1,7 @@
 This project fine-tunes a large language model (LLM) on a **custom domain corpus** collected from websites using modern NLP tools.
 
 ## Project Highlights
-- Uses **LoRA (Low-Rank Adaptation)** for memory-efficient LLM fine-tuning
+- Uses **QLoRA (Ouantized Low-Rank Adaptation)** for memory-efficient LLM fine-tuning
 - Scrapes and preprocesses structured documents with **LangChain + BeautifulSoup**
 - Splits long documents using **RecursiveCharacterTextSplitter**
 - Fine-tunes using Hugging Face's **SFTTrainer**
